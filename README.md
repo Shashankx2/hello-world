@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-just another repository
+Hi Humans,
+  
+    I am shashank, I like Node.js i am made of coffescript
